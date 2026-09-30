@@ -1,6 +1,0 @@
-Data,Descricao,Categoria,Valor,Tipo,Status
-2026-09-01,Nota Fiscal 1042 - Venda de Componentes,Faturamento,1500.00,Entrada,Pago
-2026-09-02,Conta de Luz - Escritorio,Infraestrutura,350.00,Saida,Pago
-2026-09-03,Compra de Cabos e Conectores,Estoque,450.00,Saida,Pago
-2026-09-04,Servico de Manutencao Eletrica,Faturamento,800.00,Entrada,Pago
-2026-09-05,Assinatura Software Graficos,Licencas,120.00,Saida,Pendente
